@@ -35,5 +35,6 @@ Android user can make new wallet, recover wallet, send Hycon, see Hycon market c
 ### Server
 - https://github.com/Untaek/hycon-core
 
-
+### Presentation
+ - [Open](https://github.com/Untaek/Hy-Pass/blob/master/presentation.pptx)
 
