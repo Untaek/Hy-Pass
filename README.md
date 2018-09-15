@@ -29,3 +29,11 @@ Android user can make new wallet, recover wallet, send Hycon, see Hycon market c
      - ..
 ```
 
+### Android
+- https://github.com/dbswnschl/HyconHacks_Hy_Pass
+
+### Server
+- https://github.com/Untaek/hycon-core
+
+
+
